@@ -173,8 +173,8 @@ python KNN_1.py
 **İsmail Enes Ertaş**  
 Bilgisayar Mühendisliği Öğrencisi
 
-🔗 [GitHub Profilim](https://github.com/ismailenesertas)  
-🔗 [LinkedIn Profilim](https://www.linkedin.com/in/ismail-enes-ertas)
+[GitHub Profilim](https://github.com/ismailenesertas)  
+[LinkedIn Profilim](https://www.linkedin.com/in/ismail-enes-ertas)
 
 
 
